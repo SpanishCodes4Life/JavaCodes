@@ -1,4 +1,4 @@
-package meu_codigo;
+package MeusCódigos;
 
 public class segundocódgio {
 
