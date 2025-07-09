@@ -13,6 +13,7 @@ public class operators {
 		System.out.print("*~");
 		System.out.println("Operators.");
 		
+		System.out.println(x + " Is the value of var x.");
 		System.out.println(sum1 +" is the sum of 100 + 50." );
 		System.out.println(sum2+ " is the sum of sum1 + 100.");
 		System.out.println(sum3+ " is the sum of sum1 + sum2");
