@@ -16,7 +16,7 @@ public class placa{
 	
 	public void Parar() {
 		System.out.println();
-		System.out.println("Via Interditada!!! PARE IMEDIATAMENTE.");
+		System.out.println("Alta Velocidade!!! PARE IMEDIATAMENTE.\nMultado!!!");
 	}
 	
 }
